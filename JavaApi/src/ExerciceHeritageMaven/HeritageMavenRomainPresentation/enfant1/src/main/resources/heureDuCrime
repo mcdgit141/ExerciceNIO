@@ -1,0 +1,1 @@
+timestamp=${maven.build.timestamp}
